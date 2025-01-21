@@ -10,6 +10,7 @@ Hola!
 
 
 Es una API REST con las siguientes funcionalidades
+
 1- API con rutas implementadas siguiendo las mejores prácticas del modelo REST;
 2- Validaciones realizadas según reglas de negocio;
 3- Implementación de una base de datos para la persistencia de la información;
