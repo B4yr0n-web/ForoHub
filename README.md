@@ -11,7 +11,7 @@ Hola!
 
 Es una API REST con las siguientes funcionalidades
 
-1- API con rutas implementadas siguiendo las mejores prácticas del modelo REST;
-2- Validaciones realizadas según reglas de negocio;
-3- Implementación de una base de datos para la persistencia de la información;
-4- Servicio de autenticación/autorización para restringir el acceso a la información
+- API con rutas implementadas siguiendo las mejores prácticas del modelo REST;
+- Validaciones realizadas según reglas de negocio;
+- Implementación de una base de datos para la persistencia de la información;
+- Servicio de autenticación/autorización para restringir el acceso a la información
